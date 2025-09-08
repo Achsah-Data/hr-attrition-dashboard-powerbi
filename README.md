@@ -14,7 +14,7 @@ Demographic breakdown (gender, age group, marital status)
 
 The goal is to help HR teams understand attrition patterns and make data-driven decisions to improve employee retention.
 
-📂 Files in Repository
+## 📂 Files in Repository
 
 HR Analytics.pbix → Power BI dashboard file
 
@@ -24,7 +24,7 @@ Attrition Analysis.jpg → Dashboard screenshot (detailed attrition analysis)
 
 Employee attrition overview.jpg → Dashboard screenshot (KPI overview)
 
-🚀 Key Insights
+## 🚀 Key Insights
 
 16.1% overall attrition rate observed in the dataset.
 
@@ -36,7 +36,7 @@ Overtime workers are more likely to leave the company.
 
 Laboratory Technicians and Sales Executives face higher attrition.
 
-🔧 Tools & Skills Used
+## 🔧 Tools & Skills Used
 
 Power BI → Data visualization & interactive dashboard
 
@@ -46,12 +46,12 @@ DAX (Data Analysis Expressions) → Calculated measures & KPIs
 
 CSV Dataset → HR employee attrition dataset
 
-📸 Dashboard Preview
-Attrition Analysis
+## 📸 Dashboard Preview
+## Attrition Analysis
 
-HR Analytics – Employee Attrition Overview
+## HR Analytics – Employee Attrition Overview
 
-📌 How to Use
+## 📌 How to Use
 
 Download the .pbix file.
 
@@ -59,7 +59,7 @@ Open it in Power BI Desktop.
 
 Interact with the dashboard to explore insights.
 
-💡 Conclusion
+## 💡 Conclusion
 
 This project demonstrates how Power BI can be leveraged for HR analytics.
 By identifying attrition patterns, organizations can design targeted retention strategies and reduce turnover effectively.
