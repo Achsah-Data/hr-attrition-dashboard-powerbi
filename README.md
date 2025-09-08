@@ -1,5 +1,5 @@
-HR Attrition Dashboard – Power BI
-📊 Project Overview
+##HR Attrition Dashboard – Power BI
+#📊 Project Overview
 
 This project focuses on analyzing employee attrition trends using Power BI.
 The dashboard provides insights into:
